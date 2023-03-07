@@ -1,74 +1,73 @@
-.refresh{
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
+.refresh {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
 }
 
-.refresh>button{
-    width: 100px;
-    height: 40px;
-    font-size: 20px;
+form > button {
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
 }
 
-.display{
-    display: flex;
+.refresh > button {
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
 }
 
-ul{
-    list-style: none;
-    border: 3px solid black;
-    width: 80%;
-    padding: 0;
-    margin-top: 20px;
+.display {
+  display: flex;
 }
 
-li{
-    display: flex;
-    height: 40px;
-    align-items: center;
-    font-size: 20px;
-    padding-left: 5px;
+ul {
+  list-style: none;
+  border: 3px solid black;
+  width: 80%;
+  padding: 0;
+  margin-top: 20px;
 }
 
-form>input{
-    height: 50px;
-    width: 300px;
-    font-size: 20px;
+li {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  font-size: 20px;
+  padding-left: 5px;
 }
 
-form>button{
-    height: 50px;
-    width: 100px;
-    font-size: 20px;
+form > input {
+  height: 50px;
+  width: 300px;
+  font-size: 20px;
 }
 
-
-.divdisplay{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 50%;
+.divdisplay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
 }
 
-h2{
-    font-size: 40px;
-    margin: 0;
+h2 {
+  font-size: 40px;
+  margin: 0;
 }
 
-header{
-    display: flex;
-    align-items: center;
-    height: 200px;
+header {
+  display: flex;
+  align-items: center;
+  height: 200px;
 }
 
-form{
-    display: flex;
-    flex-direction: column;
-    gap: 50px;
-    margin-top: 20px;
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-top: 20px;
 }
 
-h1{
-    margin-left: 20px;
-    font-size: 70px;
+h1 {
+  margin-left: 20px;
+  font-size: 70px;
 }

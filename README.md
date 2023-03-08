@@ -137,8 +137,7 @@ github pages.
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-
-- **[API]**-> Allow submit and refresh from API.
+-style the web page.
 
 
 

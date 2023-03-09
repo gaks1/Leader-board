@@ -22,10 +22,8 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -91,22 +89,8 @@ git clone git@github.com:gaks1/Leader-board.git
 
 ### Install
 
-Install 
-Webpack:
-npm init -y
-npm install webpack webpack-cli --save-dev
-npm install --save-dev style-loader css-loader
-npm install --save-dev html-webpack-plugin
-npm install --save-dev webpack-dev-server
-
-
-### Run tests
-
-To run tests, go to:
-
-1. htmltester--> https://wave.webaim.org/
-2. csstester-->https://jigsaw.w3.org/css-validator/
-
+to install please run :
+npm install
 
 ### Deployment
 
@@ -129,22 +113,6 @@ github pages.
  - GitHub: [@githubhandle](https://github.com/gaks1)
  - Twitter: [@twitterhandle](https://twitter.com/bopplov)
 -  LinkedIn: [LinkedIn](https://www.linkedin.com/in/isaac-wanyoike-1841a8172/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
-
-- **[API]**-> Allow submit and refresh from API.
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 🤝 Contributing <a name="contributing"></a>

@@ -2,21 +2,7 @@ import {
   name, score, baseurl, ul,
 } from './selector.js';
 
-let gameID = '';
-const createGame = async () => {
-  const gameName = 'Isaac game';
-  const url = `${baseurl}/games/`;
-  const response = await fetch(url, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ name: gameName }),
-  });
-  const data = await response.json();
-  gameID = data.result;
-  return gameID;
-};
+const gameID = 'XBSpv4i1UxPqI7BMlV9R';
 
 const addGame = async (e) => {
   e.preventDefault();
@@ -49,4 +35,4 @@ const refreshGame = async () => {
   });
 };
 
-export { createGame, addGame, refreshGame };
+export { addGame, refreshGame };

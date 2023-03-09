@@ -47,10 +47,17 @@
   <ul>
     <li><a href="https://www.quackit.com/html/codes/html_code_library.cfm">Html</a></li>
     <li><a href="https://www.w3docs.com/course/css-the-complete-guide-2020-incl-flexbox-grid-sass">css</a></li>
+    <li><a href="https://www.javascript.com/">Javascript</a></li>
+
   </ul>
 </details>
 
-
+<details>
+  <summary>API<summary>
+  <ul>
+    <li><a href="https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3">Leaderboard API</a></li>
+  </ul> 
+</details>
 
 
 ### Key Features <a name="key-features"></a>
